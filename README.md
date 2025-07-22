@@ -7,6 +7,12 @@ It showcases a virtual South Indian breakfast experience with modern web aesthet
 
 ---
 
+## 🌐 Live Mock
+
+🔗 [GitHub Pages – Live Demo](https://WATERMELONBOSS.github.io/Restaurant-page)
+
+---
+
 ## 🚀 Key Features
 
 - 🍛 **Dynamic food gallery** with curated South Indian dishes  
@@ -25,11 +31,39 @@ It showcases a virtual South Indian breakfast experience with modern web aesthet
 
 ---
 
-## 🌐 Live Mock
+## 🍲 Image Gallery Includes
 
-🔗 [GitHub Pages – Live Demo](https://WATERMELONBOSS.github.io/Restaurant-page)
+- ✅ Masala Dosa  
+- ✅ Podi Idli  
+- ✅ Podi Rice  
+- ✅ Rava Dosa  
+- ✅ South Indian Thali  
+- ✅ Traditional Filter Coffee  
+- ✅ Snacks and more!
 
 ---
 
-## 🧾 Folder Structure
+## 🧩 Future Enhancements (Optional)
+
+- Add a carousel or image slider for dishes
+- Integrate feedback/contact form
+- Add scroll animations and section reveals
+- Port to React/Vite for dynamic interactivity
+
+---
+
+## 👨‍💻 Developed By
+
+**Milan Srinivas**  
+
+[LinkedIn](https://linkedin.com/in/milansrinivas) • [GitHub](https://github.com/WATERMELONBOSS)
+
+---
+
+## 📜 License
+
+This project is for **educational and demonstration purposes only**.  
+Not intended for commercial use without permission.
+
+
 
